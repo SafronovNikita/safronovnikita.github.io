@@ -1,0 +1,1 @@
+import{j as n,o as e,_ as c,g as s}from"./entry.1fec6108.js";import{_ as a}from"./ContactsWidget.10f565a2.js";import"./resume.b4108257.js";function r(t,_,i,m,u,d){const o=a;return e(),n(o)}const p=s({head(t){return{title:"Contacts | Nikita Logos"}}},"$IN03c5nkzz"),k=c(p,[["render",r]]);export{k as default};
